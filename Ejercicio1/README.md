@@ -12,6 +12,8 @@ nombre, edad y ciudad. Luego, debe mostrar:
 - El promedio de edad.
 - El nombre más largo ingresado.
 - Elegir aleatoriamente un “usuario destacado”.
+
+
 Requisitos técnicos:
 - Usa ArrayList para almacenar los usuarios.
 - Implementa una clase Usuario con atributos privados y métodos públicos
